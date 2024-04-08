@@ -1,4 +1,4 @@
-*** Tip calculator ***
+## Tip calculator
 ___
 User can calculate with appropriate percentage for many people.
-(Link to site)[https://lebedenkoandrii.github.io/tip_calculator/]
+[Link to site](https://lebedenkoandrii.github.io/tip_calculator/)
